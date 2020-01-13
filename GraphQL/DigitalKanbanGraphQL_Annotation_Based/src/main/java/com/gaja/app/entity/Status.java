@@ -1,0 +1,6 @@
+package com.gaja.app.entity;
+
+public enum Status {
+
+	ASSIGNED, DESIGNING, DEVELOPMENT, OFFSHORE_TESTING, ONSITE_TESTING, PRODUCTION
+}
